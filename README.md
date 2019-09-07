@@ -1,6 +1,6 @@
 # vim-better-zoom
 
-BetterZoom provides a better <C-w>|<C-w>_ without hiding 100% the others
+BetterZoom provides a better `<C-w>|<C-w>_` without hiding 100% the others
 windows.
 
 ## Instalation
