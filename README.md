@@ -1,4 +1,4 @@
-# vim-betterzoom
+# vim-better-zoom
 
 BetterZoom provides a better <C-w>|<C-w>_ without hiding 100% the others
 windows.
@@ -22,5 +22,5 @@ BetterZoom does not come with mappings. Soon you can choose! Examples:
 
 ## License
 
-Copyright © Emerson Max de Medeiros Silva. Distributed under the same terms as
-Vim itself. See :help license.
+Copyright © Emerson Max de Medeiros Silva. Distributed under the same terms as Vim itself.
+See `:help license`.
