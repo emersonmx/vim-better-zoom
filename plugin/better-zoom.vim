@@ -6,8 +6,8 @@ if exists("g:loaded_better_zoom") || v:version < 700 || &cp
 endif
 let g:loaded_better_zoom = 1
 
-let g:better_zoom_min_width=20
-let g:better_zoom_min_height=3
+let g:better_zoom_min_width = get(g:, 'better_zoom_min_width', 20)
+let g:better_zoom_min_height = get(g:, 'better_zoom_min_height', 3)
 
 function! <SID>BetterZoom()
     let old_winminwidth=&winminwidth
