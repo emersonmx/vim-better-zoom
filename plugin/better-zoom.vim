@@ -45,7 +45,6 @@ function! <SID>BetterZoomToggle()
         call s:better_zoom_auto()
     else
         echo 'BetterZoom disabled'
-        wincmd =
     end
 endfunction
 
